@@ -1,6 +1,10 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=73&section=header&reversal=false&text=WELCOME&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=%09#000000"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&section=header&reversal=false&text=WELCOME&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=%09#000000"  />
 </div>
+
+###
+
+<img align="left" height="47" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.pixabay.com%2Fanimation%2F2022%2F07%2F31%2F06%2F00%2F06-00-00-61_512.gif&f=1&nofb=1&ipt=6e3f69cbbf3ec0404d19f876c6e39d66aba067acd0f67c85ea7f1cbf4bc687c2"  />
 
 ###
 
@@ -37,13 +41,5 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EmreIsikbas/EmreIsikbas/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EmreIsikbas/EmreIsikbas/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EmreIsikbas/EmreIsikbas/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
