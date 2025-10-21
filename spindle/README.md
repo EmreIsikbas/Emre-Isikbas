@@ -4,7 +4,7 @@
 Includes tolerances, surface roughness, and bearing specifications.
 
 📄 Files:
-- [spindle.ipt](./Spindle.idw)
+- [spindle.idw](./Spindle.idw)
 - [spindle_section.pdf](./Spindle.pdf)
 
 🧠 **What I Learned:**
