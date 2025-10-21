@@ -4,8 +4,8 @@
 Includes tolerances, surface roughness, and bearing specifications.
 
 📄 Files:
-- `spindle.ipt`
-- `spindle_section.pdf`
+- [spindle.ipt](./Spindle.ipt)
+- [spindle_section.pdf](./Spindle.pdf)
 
 🧠 **What I Learned:**
 - Dimensional tolerances and fits
