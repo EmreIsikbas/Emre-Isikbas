@@ -1,6 +1,6 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&section=header&reversal=false&text=WELCOME&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=%09#000000"  />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:0d1117&height=200&section=header&text=WELCOME&fontSize=50&fontColor=ffffff" />
+</p>
 
 ###
 
@@ -20,37 +20,77 @@
 
 Here are some of my engineering projects created during my studies and personal practice:
 
+---
+
+### 🧱 CAD Projects
 | Project | Description |
 |----------|--------------|
 | [🔩 Spindle Assembly](./spindle) | 3D spindle mechanism designed in AutoCAD Inventor — includes sectional drawing, tolerances, and bearing selection. |
 | [⚙️ Gears (coming soon)](./gears) | Gear pair design and dimensional analysis in progress. |
-| [📐 More Projects](./autocad-inventor-projects) | Collection of CAD and Inventor-based works. |
+| [📐 More CAD Projects](./autocad-inventor-projects) | Collection of CAD and Inventor-based works. |
+
+---
+
+### 💻 MATLAB & Simulation
+| Project | Description |
+|----------|--------------|
+| [📊 Control Systems (coming soon)](./matlab-control) | MATLAB-based PID and motion control simulations. |
+| [🌡️ Thermodynamics Modeling](./matlab-thermo) | Energy and heat transfer system modeling using MATLAB scripts. |
+
+---
+
+### 🤖 DIY & Robotics
+| Project | Description |
+|----------|--------------|
+| [🔋 Arduino Mini Projects](./arduino-projects) | Personal Arduino experiments — blinking LEDs, motor control, and sensor systems. |
+| [⚡ Automation Concepts](./robotics-concepts) | Concept designs combining mechanical motion and basic automation. |
+
+---
+
+### 🔬 Other Works
+| Project | Description |
+|----------|--------------|
+| [📘 Technical Reports](./reports) | Engineering documentation, tolerance analysis, and report writing. |
+| [🧠 Course Projects](./school-projects) | Selected works and analyses completed during CTU studies. |
+
+---
 
 
-<h2 align="left">Tools & Software I Use</h2>
+
+
+---
+
+### ⚙️ What I Build With
+
+> - 🧩 AutoCAD Inventor — for designing parts that (usually) fit  
+> - ⚡ Arduino IDE — for making things blink and move  
+> - 📊 Excel — because engineers can’t escape it  
+> - 💡 MATLAB — where math meets chaos
+
 
 ###
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=autocad" height="40" alt="autocad logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/blender/F5792A" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
-</div>
+---
 
-###
+### 🌐 Connect with Me
 
-<h2 align="left">Socail Media</h2>
-
-###
-
-<div align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/emre-isikbas-a01833336/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+<p align="center">
+  <em>Let’s connect and talk about design, engineering, or just cool mechanical stuff ⚙️</em>
+</p>
+
   </a>
 </div>
 
 ###
+
+---
+<p align="center">
+  <em>“Engineering: the art of solving problems you didn’t know existed.”</em>
+</p>
+
