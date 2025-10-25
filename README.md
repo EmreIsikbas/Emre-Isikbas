@@ -16,6 +16,17 @@
 
 ###
 
+## 🧰 Projects
+
+Here are some of my engineering projects created during my studies and personal practice:
+
+| Project | Description |
+|----------|--------------|
+| [🔩 Spindle Assembly](./spindle) | 3D spindle mechanism designed in AutoCAD Inventor — includes sectional drawing, tolerances, and bearing selection. |
+| [⚙️ Gears (coming soon)](./gears) | Gear pair design and dimensional analysis in progress. |
+| [📐 More Projects](./autocad-inventor-projects) | Collection of CAD and Inventor-based works. |
+
+
 <h2 align="left">Tools & Software I Use</h2>
 
 ###
