@@ -12,9 +12,34 @@
 
 ###
 
-<h6 align="left">👋 Hey! I’m Emre — a Mechanical Engineering student who spends more time fixing simulations than running them.<br><br>🛠️ Tools I occasionally master (and frequently break):<br>- AutoCAD Inventor — 95% designing, 5% force closing<br>- Arduino — blinking LEDs since childhood, still pretending it’s robotics 🤖<br>- Excel — using it like it’s MATLAB because why not<br><br>📚 Currently learning:<br>How to make machines move without exploding.<br><br>🚀 Goals:<br>Upgrade from “student” to “engineer (who actually knows what he’s doing)”.<br><br>🤝 Open to collaborating on anything that spins, moves, or makes weird noises.<br><br>If it has bolts or code — I’ll probably mess with it.</h6>
+<h6 align="left"> 
+👋 Hey! I’m Emre — a Mechanical Engineering student who spends more time fixing simulations than running them.  
+<br><br>
+🧠 <i>Curious mind powered by caffeine, CAD, and curiosity.</i> ☕  
+<br><br>
+⚙️ I design things that (usually) work, and when they don’t — I learn why.  
+<br><br>
+📘 Currently exploring ways to make machines move without exploding.  
+<br><br>
+🚀 My mission?  
+To turn random ideas into real mechanisms, one sketch at a time.  
+<br><br>
+🤝 Open to collaborations on anything that spins, moves, or makes weird noises.  
+<br><br>
+If it involves bolts, code, or caffeine — I’m probably already on it. 🔩  
+</h6>
 
 ###
+### ⚙️ What I Build With
+
+> - 🧩 AutoCAD Inventor — for designing parts that (usually) fit  
+> - ⚡ Arduino IDE — for making things blink and move  
+> - 📊 Excel — because engineers can’t escape it  
+> - 💡 MATLAB — where math meets chaos
+
+
+###
+---
 
 ## 🧰 Projects
 
@@ -53,22 +78,9 @@ Here are some of my engineering projects created during my studies and personal 
 | [📘 Technical Reports](./reports) | Engineering documentation, tolerance analysis, and report writing. |
 | [🧠 Course Projects](./school-projects) | Selected works and analyses completed during CTU studies. |
 
----
 
 
 
-
----
-
-### ⚙️ What I Build With
-
-> - 🧩 AutoCAD Inventor — for designing parts that (usually) fit  
-> - ⚡ Arduino IDE — for making things blink and move  
-> - 📊 Excel — because engineers can’t escape it  
-> - 💡 MATLAB — where math meets chaos
-
-
-###
 
 ---
 
