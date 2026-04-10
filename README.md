@@ -50,7 +50,7 @@ Here are some of my engineering projects created during my studies and personal 
 ### 🧱 CAD Projects
 | Project | Description |
 |----------|--------------|
-| [⚙️ Globe Valve](./globe_valve) | This project is part of an ongoing portfolio and will be updated as the design is finalized. |
+| [⚙️ Globe Valve](./globe_valve) |  Globe valve design in AutoCAD Inventor — includes assembly drawing, sectional views, tolerances, threads, and manufacturing details.. |
 | [🔩 Spindle Assembly](./spindle) | 3D spindle mechanism designed in AutoCAD Inventor — includes sectional drawing, tolerances, and bearing selection. |
 | [📐 More CAD Projects](./autocad-inventor-projects) | Collection of CAD and Inventor-based works. |
 
