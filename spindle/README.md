@@ -1,14 +1,21 @@
-# 🔧 Spindle Assembly
+# 🔧 Globe Valve 
 
-3D model and sectional drawing of a spindle mechanism designed in **AutoCAD Inventor**.  
-Includes tolerances, surface roughness, and bearing specifications.
+3D model and sectional drawing of a PN250 DN50 globe valve designed in **AutoCAD Inventor**.  
+Includes BOM, tolerances, surface roughness, thread specifications, and sealing elements
 
 📄 Files:
-- [spindle.idw](./Spindle.idw)
-- [spindle_section.pdf](./Spindle.pdf)
+- [Globe_Valve_2D.pdf](./Valve.pdf)
 
 🧠 **What I Learned:**
-- Dimensional tolerances and fits
-- Bearing selection (SKF)
-- Drawing standards and technical documentation
+-Assembly design and technical drawing structure
+-Dimensional tolerances and fits (ISO 2768-mK)
+-Thread standards and valve components (TR, metric threads)
+-Bearing and sealing element selection
+-Manufacturing approach (casting + machining)
+
+⚠️**Notes / Improvements**:
+-Some tolerances will be refined for manufacturability (DFM)
+-Non-standard washer will be redesigned or standardized
+-Additional service and maintenance notes will be added
+-Drawing layout will be improved with clearer detail sheets
 
